@@ -13,7 +13,7 @@ const pauseButton = document.getElementById("pause");
 const nextButton = document.getElementById("next");
 const previousButton = document.getElementById("previous");
 const shuffleButton = document.getElementById("shuffle");
-console.log("hi");
+
 // 2. - pravim array sa objektima.
 const allSongs = [      //Ovo su object unutar array-a. 
     {
