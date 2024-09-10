@@ -4,7 +4,7 @@
   "description": "Music player",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dir"
+    "build": "parcel build index.html"
   },
   "author": "Marko P",
   "license": "ISC",
